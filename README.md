@@ -1,0 +1,2 @@
+# .github
+Beskrivelse av felleskomponenter
